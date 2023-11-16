@@ -7,7 +7,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-body{
+body {
     background-color: #c9d6ff;
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(252,200,255,1) 0%, rgba(136,136,255,1) 100%, rgba(0,212,255,1) 100%);
     display: flex;
